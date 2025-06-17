@@ -48,5 +48,6 @@ This is a **modular and feature-rich Hospital Management System** built in **C l
  - REST API for web integration
 
 📜 License
-This project is open-source and free to use for educational and personal use.
+
+- This project is open-source and free to use for educational and personal use.
 
